@@ -1,0 +1,75 @@
+{
+    "users": [
+      {
+        "username": "john_doe",
+        "password": "password123",
+        "name":"John Doe",
+        "role": "admin",
+        "empId":1,
+        "DOJ":"24/01/2021"
+      },
+      {
+        "username": "jane_smith",
+        "password": "secret123",
+        "name":"Jane Smith",
+        "role": "team_leader",
+        "empId":2,
+        "DOJ":"01/08/2022"
+      },
+      {
+        "username": "mark_zuker",
+        "password": "secret321",
+        "name":"Mark Zuker",
+        "role": "team_leader",
+        "empId":3,
+        "DOJ":"08/06/2022"
+      },
+      {
+        "username": "bob_jones",
+        "password": "123456",
+        "name":"Bob Jones",
+        "role": "employee",
+        "empId":4,
+        "leadId":2,
+        "process":"HR",
+        "DOJ":"19/02/2023"
+      },{
+        "username": "james_cameroon",
+        "password": "123456",
+        "name":"James Cameroon",
+        "role": "employee",
+        "empId":6,
+        "leadId":2,
+        "process":"HR",
+        "DOJ":"22/03/2023"
+      },{
+        "username": "benny_beck",
+        "password": "123456",
+        "name":"Benny Beck",
+        "role": "employee",
+        "empId":30,
+        "leadId":3,
+        "process":"Devloper",
+        "DOJ":"12/04/2023"
+      },{
+        "username": "mike_andrew",
+        "password": "123456",
+        "name":"Mike Andrew",
+        "role": "employee",
+        "empId":42,
+        "leadId":3,
+        "process":"Devloper",
+        "DOJ":"14/09/2023"
+      },{
+        "username": "steve_watson",
+        "password": "123456",
+        "name":"Steve Watson",
+        "role": "employee",
+        "empId":42,
+        "leadId":3,
+        "process":"IT",
+        "DOJ":"28/01/2024"
+      }
+    ]
+  }
+  
